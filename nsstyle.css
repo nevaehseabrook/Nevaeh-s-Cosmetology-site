@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+body,td,th {
+	font-size: 36px;
+	color: rgba(195,38,245,1);
+}
+h1 {
+	color: rgba(233,1,181,1);
+}
+body {
+	background-color: rgba(215,118,9,1);
+}
+
+#banner {
+margin: 0 auto;
+display: block;
+max-width: 100%;
+}
+
+#bannerdiv {
+background-color: white;
+}
+
+.floatpic {
+	max-width: 50%;
+}
